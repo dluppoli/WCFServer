@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFDemo", "WCFDemo\WCFDemo.csproj", "{33ABB11C-001A-4850-A708-AE38DD2D2827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertitoreService", "ConvertitoreService\ConvertitoreService.csproj", "{ADB9557F-48EE-4359-A5AB-87330A9EF98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ABB11C-001A-4850-A708-AE38DD2D2827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ABB11C-001A-4850-A708-AE38DD2D2827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ABB11C-001A-4850-A708-AE38DD2D2827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ABB11C-001A-4850-A708-AE38DD2D2827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB9557F-48EE-4359-A5AB-87330A9EF98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB9557F-48EE-4359-A5AB-87330A9EF98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB9557F-48EE-4359-A5AB-87330A9EF98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB9557F-48EE-4359-A5AB-87330A9EF98A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B2A358-17D7-4118-B570-D3701F1AE035}
+	EndGlobalSection
+EndGlobal
